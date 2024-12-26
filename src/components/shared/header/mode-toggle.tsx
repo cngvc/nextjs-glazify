@@ -9,7 +9,6 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { MoonIcon, SunIcon } from "lucide-react";
-
 import { useTheme } from "next-themes";
 import { useMountedState } from "react-use";
 
